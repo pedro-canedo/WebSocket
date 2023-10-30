@@ -23,7 +23,7 @@ This project serves as a WebSocket backend developed using FastAPI. It is design
 Clone the repository to get a copy of this project on your local machine.
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/pedro-canedo/WebSocket.git
 ```
 
 ## Prerequisites
